@@ -1,0 +1,7 @@
+<div class="mark">
+            <marquee behavior="scroll" direction="left">Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                Dignissimos
+                alias fuga enim autem aperiam rem! Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laudantium,
+                reprehenderit architecto? Corporis, iste beatae.
+                Scrolling text...</marquee>
+        </div>

@@ -1,0 +1,406 @@
+ <div class="row text-center">
+        <div class="content">
+            <h2>DEAL OF THE DAY</h2>
+        </div>
+        <div class="col-lg-2 col-md-4 col-sm-6">
+            <div class="thumbnail">
+                <img src="images/2.jpeg">
+                <div class="price">
+                    <p><strong>&#8377 258 </strong></p>
+                </div>
+                <div class="star">
+                    <p>&#9733 &#9733 &#9733 &#9734 &star;</p>
+                </div>
+                <div class="detail">
+                    <p>Adidas Originals</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-2 col-md-4 col-sm-6">
+            <div class="thumbnail">
+                <img src="images/3.jpeg">
+                <div class="price">
+                    <p><strong>&#8377 258</strong></p>
+                </div>
+                <div class="star">
+                    <p>&#9733 &#9733 &#9733 &#9733 &star;</p>
+                </div>
+                <div class="detail">
+                    <p>Armani Exchange</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-2 col-md-4 col-sm-6">
+            <div class="thumbnail">
+                <img src="images/4.jpeg">
+                <div class="price">
+                    <p><strong>&#8377 258</strong></p>
+                </div>
+                <div class="star">
+                    <p>&#9733 &#9733 &#9733 &#9733 &star;</p>
+                </div>
+                <div class="detail">
+                    <p>American Eagle</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-2 col-md-4 col-sm-6">
+            <div class="thumbnail">
+                <img src="images/2.jpeg">
+                <div class="price">
+                    <p><strong>&#8377 258</strong></p>
+                </div>
+                <div class="star">
+                    <p>&#9733 &#9733 &#9733 &#9733 &star;</p>
+                </div>
+                <div class="detail">
+                    <p>Blackberrys</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-2 col-md-4 col-sm-6">
+            <div class="thumbnail">
+                <img src="images/3.jpeg">
+                <div class="price">
+                    <p><strong>&#8377 258</strong></p>
+                </div>
+                <div class="star">
+                    <p>&#9733 &#9733 &#9733 &#9733 &star;</p>
+                </div>
+                <div class="detail">
+                    <p>Being Human</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-2 col-md-4 col-sm-6">
+            <div class="thumbnail">
+                <img src="images/4.jpeg">
+                <div class="price">
+                    <p><strong>&#8377 258</strong></p>
+                </div>
+                <div class="star">
+                    <p>&#9733 &#9733 &#9733 &#9733 &star;</p>
+                </div>
+                <div class="detail">
+                    <p>Big Bazaar</p>
+                </div>
+            </div>
+        </div>
+</div>
+        <!-- Deal of the day 2nd portion -->
+
+        <!-- <div class="row text-center">
+        <div class="col-lg-2 col-md-4 col-sm-6">
+
+            <img src="images/10.jpeg"">
+            <div class="price">
+                <p><strong>&#8377 258</strong></p>
+            </div>
+            <div class="star">
+                <p>&#9733 &#9733 &#9733 &#9733 &star;</p>
+            </div>
+            <div class="detail">
+                <p>Blue Stone</p>
+            </div>
+        </div>
+
+        <div class="col-lg-2 col-md-4 col-sm-6">
+
+            <img src="images/11.jpeg"">
+            <div class="price">
+                <p><strong>&#8377 258</strong></p>
+            </div>
+            <div class="star">
+                <p>&#9733 &#9733 &#9733 &#9733 &star;</p>
+            </div>
+            <div class="detail">
+                <p>Brooks Brothers</p>
+            </div>
+        </div>
+
+        <div class="col-lg-2 col-md-4 col-sm-6">
+
+            <img src="images/14.jpeg"">
+            <div class="price">
+                <p><strong>&#8377 258</strong></p>
+            </div>
+            <div class="star">
+                <p>&#9733 &#9733 &#9733 &#9733 &star;</p>
+            </div>
+            <div class="detail">
+                <p>Calvin Klein</p>
+            </div>
+        </div>
+
+        <div class="col-lg-2 col-md-4 col-sm-6">
+
+            <img src="images/13.jpeg"">
+            <div class="price">
+                <p><strong>&#8377 258</strong></p>
+            </div>
+            <div class="star">
+                <p>&#9733 &#9733 &#9733 &#9733 &star;</p>
+            </div>
+            <div class="detail">
+                <p>Carlton London</p>
+            </div>
+        </div>
+
+        <div class="col-lg-2 col-md-4 col-sm-6">
+
+            <img src="images/1.jpeg"">
+            <div class="price">
+                <p><strong>&#8377 258</strong></p>
+            </div>
+            <div class="star">
+                <p>&#9733 &#9733 &#9733 &#9733 &star;</p>
+            </div>
+            <div class="detail">
+                <p>Charles & keith</p>
+            </div>
+        </div>
+
+        <div class="col-lg-2 col-md-4 col-sm-6">
+
+            <img src="images/14.jpeg"">
+            <div class="price">
+                <p><strong>&#8377 258</strong></p>
+            </div>
+            <div class="star">
+                <p>&#9733 &#9733 &#9733 &#9733 &star;</p>
+            </div>
+            <div class="detail">
+                <p>Coco Cart</p>
+            </div>
+        </div>
+    </div> -->
+
+
+        <!-- End of deal of the day -->
+
+        <!-- Start of deal on top brands -->
+
+
+        <div class="content">
+            <h2>DEAL ON TOP BRANDS</h2>
+        </div>
+        <div class="row">
+            <div class="col-lg-2 col-md-4 col-sm-6">
+                <div class="thumbnail">
+                    <img src="images/2.jpeg" alt="50%off" class="img-rounded">
+                    <div class="description">
+                        <p><strong>Allen Solly</strong></p>
+                    </div>
+                    <div class="price">
+                        <p>55% Off</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-2 col-md-4 col-sm-6">
+                <div class="thumbnail ">
+                    <img src="images/3.jpeg" alt="50%off" class="img-rounded">
+                    <div class="description">
+                        <p><strong>Nike</strong></p>
+                    </div>
+                    <div class="price">
+                        <p>45% Off</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-2 col-md-4 col-sm-6">
+                <div class="thumbnail ">
+                    <img src="images/4.jpeg" alt="50%off" class="img-rounded">
+                    <div class="description">
+                        <p><strong>Adidas</strong></p>
+                    </div>
+                    <div class="price">
+                        <p>45% Off</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-2 col-md-4 col-sm-6">
+                <div class="thumbnail ">
+                    <img src="images/2.jpeg" alt="50%off" class="img-rounded">
+                    <div class="description">
+                        <p><strong>Puma</strong></p>
+                    </div>
+                    <div class="price">
+                        <p>55% Off</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-2 col-md-4 col-sm-6">
+                <div class="thumbnail ">
+                    <img src="images/2.jpeg" alt="50%off" class="img-rounded">
+                    <div class="description">
+                        <p><strong>Reebok</strong></p>
+                    </div>
+                    <div class="price">
+                        <p>55% Off</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-2 col-md-4 col-sm-6">
+                <div class="thumbnail ">
+                    <img src="images/3.jpeg" alt="50%off" class="img-rounded">
+                    <div class="description">
+                        <p><strong>Wrangler</strong></p>
+                    </div>
+                    <div class="price">
+                        <p>55% Off</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- 2nd portion of deal on top brands -->
+
+
+
+        <!-- <div class="row">
+            <div class="col-lg-2 col-md-4 col-sm-6">
+                <div class="thumbnail">
+                    <img src="images/2.jpeg" alt="50%off" class="img-rounded">
+                    <div class="description">
+                        <p><strong>Allen Solly</strong></p>
+                    </div>
+                    <div class="price">
+                        <p>55% Off</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-2 col-md-4 col-sm-6">
+                <div class="thumbnail ">
+                    <img src="images/3.jpeg" alt="50%off" class="img-rounded">
+                    <div class="description">
+                        <p><strong>Nike</strong></p>
+                    </div>
+                    <div class="price">
+                        <p>45% Off</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-2 col-md-4 col-sm-6">
+                <div class="thumbnail ">
+                    <img src="images/4.jpeg" alt="50%off" class="img-rounded">
+                    <div class="description">
+                        <p><strong>Adidas</strong></p>
+                    </div>
+                    <div class="price">
+                        <p>45% Off</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-2 col-md-4 col-sm-6">
+                <div class="thumbnail ">
+                    <img src="images/2.jpeg" alt="50%off" class="img-rounded">
+                    <div class="description">
+                        <p><strong>Puma</strong></p>
+                    </div>
+                    <div class="price">
+                        <p>55% Off</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-2 col-md-4 col-sm-6">
+                <div class="thumbnail ">
+                    <img src="images/2.jpeg" alt="50%off" class="img-rounded">
+                    <div class="description">
+                        <p><strong>Reebok</strong></p>
+                    </div>
+                    <div class="price">
+                        <p>55% Off</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-2 col-md-4 col-sm-6">
+                <div class="thumbnail ">
+                    <img src="images/3.jpeg" alt="50%off" class="img-rounded">
+                    <div class="description">
+                        <p><strong>Wrangler</strong></p>
+                    </div>
+                    <div class="price">
+                        <p>55% Off</p>
+                    </div>
+                </div>
+            </div>
+        </div> -->
+
+        <!-- End of deal on top brands -->
+
+        <!-- Start of most amazing deals -->
+
+
+
+        <div class="content">
+            <h2>MOST AMAZING DEALS</h2>
+        </div>
+        <div class="row">
+            <div class="col-lg-2 col-md-4 col-sm-6">
+                <div class="top-picks img-rounded ">
+                    <img src="images/2.jpeg">
+                    <div class="description">
+                        <p><strong>Allen Solly</strong></p>
+                    </div>
+                    <div class="star">
+                        <p>&#9733 &#9733 &#9733 &#9733 &star;</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-2 col-md-4 col-sm-6">
+                <div class="top-picks">
+                    <img src="images/3.jpeg">
+                    <div class="description">
+                        <p><strong>Nike</strong></p>
+                    </div>
+                    <div class="star">
+                        <p>&#9733 &#9733 &#9733 &#9733 &star;</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-2 col-md-4 col-sm-6">
+                <div class="top-picks">
+                    <img src="images/4.jpeg">
+                    <div class="description">
+                        <p><strong>Puma</strong></p>
+                    </div>
+                    <div class="star">
+                        <p>&#9733 &#9733 &#9733 &#9733 &star;</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-2 col-md-4 col-sm-6">
+                <div class="top-picks">
+                    <img src="images/2.jpeg">
+                    <div class="description">
+                        <p><strong>Adidas</strong></p>
+                    </div>
+                    <div class="star">
+                        <p>&#9733 &#9733 &#9733 &#9733 &star;</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-2 col-md-4 col-sm-6">
+                <div class="top-picks">
+                    <img src="images/3.jpeg">
+                    <div class="description">
+                        <p><strong>Reebok</strong></p>
+                    </div>
+                    <div class="star">
+                        <p>&#9733 &#9733 &#9733 &#9733 &star;</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-2 col-md-4 col-sm-6">
+                <div class="top-picks">
+                    <img src="images/4.jpeg">
+                    <div class="description">
+                        <p><strong>Wrangler</strong></p>
+                    </div>
+                    <div class="star">
+                        <p>&#9733 &#9733 &#9733 &#9733 &star;</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
